@@ -7,14 +7,13 @@ namespace Ferretero.Datos
     {
         public AplicationDbContext(DbContextOptions<AplicationDbContext> options) : base(options)
         {
-
-
         }
-        //Aca iremos Creando basados en el modelo las respectivas tablas en la bd 
 
-        public DbSet<Categoria>categoria{get;set;}
+        // Aca iremos creando basados en el modelo las respectivas tablas en la BD
+        public DbSet<Categoria> categoria { get; set; }
+        public DbSet<TipoAplicacion> TipoAplicaciones { get; set; }
 
-
-
+        public DbSet<Producto> Producto { get; set; }
     }
 }
+

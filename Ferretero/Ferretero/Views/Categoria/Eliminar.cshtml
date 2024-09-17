@@ -1,0 +1,51 @@
+﻿@model Ferretero11D.Models.Categoria
+@{
+    ViewData["Title"] = "Eliminar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Eliminar Categoria</h1>
+
+<form method="post" asp-action="Eliminar">
+    <input asp_for="id" type="hidden" />
+
+
+    <div class="border p-3">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="row mb-3">
+            <h2 class="text-info">Esta seguro?</h2>
+        </div>
+
+        <div class="container">
+            <div class="row mb-3">
+                <div class="col-md-6">
+                    <label asp-for="NombreCategoria" class="form-label">Nombre Categoria</label>
+                    <input asp-for="NombreCategoria" class="form-control" disabled />
+                  
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <div class="col-md-6">
+                    <label asp-for="MostrarOrden" class="form-label">Orden</label>
+                    <input asp-for="MostrarOrden" class="form-control" disabled/>
+                    
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+                    <button type="submit" class="btn btn-danger me-md-2">Eliminar</button>
+                    <a asp-controller="Categoria" asp-action="Index" class="btn btn-success">Regresar</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+
