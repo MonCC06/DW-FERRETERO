@@ -14,7 +14,9 @@ namespace Ferretero.Datos
 
         public DbSet<Categoria>categoria{get;set;}
 
+        public DbSet<TipoAplicacion> tipoAplicacion { get; set;}
 
+        public DbSet<>
 
     }
 }
