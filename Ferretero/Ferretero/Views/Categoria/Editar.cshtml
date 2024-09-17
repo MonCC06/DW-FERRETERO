@@ -1,0 +1,48 @@
+﻿@model Ferretero.Models.Categoria
+@{
+    ViewData["Title"] = "Editar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Editar Categoria</h1>
+
+<form method="post" asp-action="Crear">
+    <input asp-for="Id" type="hidden"/>
+    <div class="border p-3">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="row mb-3">
+            <h2 class="text-info">Nueva Categoria</h2>
+        </div>
+
+        <div class="container">
+            <div class="row mb-3">
+                <div class="col-md-6">
+                    <label asp-for="NombreCategoria" class="form-label">Nombre Categoria</label>
+                    <input asp-for="NombreCategoria" class="form-control" />
+                    <span asp-validation-for="NombreCategoria" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <div class="col-md-6">
+                    <label asp-for="MostrarOrden" class="form-label">Orden</label>
+                    <input asp-for="MostrarOrden" class="form-control" />
+                    <span asp-validation-for="MostrarOrden" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+                    <button type="submit" class="btn btn-primary me-md-2">Crear Nueva</button>
+                    <a asp-controller="Categoria" asp-action="Index" class="btn btn-success">Regresar</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
