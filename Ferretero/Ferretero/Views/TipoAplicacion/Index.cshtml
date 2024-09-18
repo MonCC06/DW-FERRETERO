@@ -1,4 +1,4 @@
-﻿@model IEnumerable<Ferretero.Models.Categoria>
+﻿@model IEnumerable<Ferretero.Models.TipoAplicacion>
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
@@ -7,12 +7,12 @@
 <div class="container p-3">
     <div class="row pt-4">
         <div class="col-6">
-            <h2 class="text-primary">Lista de Categorías</h2>
+            <h2 class="text-primary">Lista de Tipos de aplicaciones</h2>
         </div>
 
         <div class="col-6 text-end">
-            <a asp-controller="Categoria" asp-action="Crear" class="btn btn-primary">
-                <i class="fa-solid fa-plus"></i> Nueva Categoría
+            <a asp-controller="TipoAplicacion" asp-action="Crear" class="btn btn-primary">
+                <i class="fa-solid fa-plus"></i> Nuevo Tipo de aplicacion
             </a>
         </div>
     </div>
@@ -25,7 +25,6 @@
             <thead>
                 <tr>
                     <th>Nombre Categoría</th>
-                    <th>Orden</th>
                     <th class="text-center">Acciones</th>
                 </tr>
             </thead>
@@ -34,14 +33,13 @@
                 @foreach (var item in Model)
                 {
                     <tr>
-                        <td width="50%">@item.NombreCategoria</td>
-                        <td width="30%">@item.MostrarOrden</td>
+                        <td width="50%">@item.Nombre</td>
                         <td class="text-center">
                             <div class="btn-group" role="group">
-                                <a asp-controller="Categoria" asp-action="Editar" asp-route-id="@item.Id" class="btn btn-primary mx-2">
+                                <a asp-controller="TipoAplicacion" asp-action="Editar" asp-route-id="@item.Id" class="btn btn-primary mx-2">
                                     <i class="fa-solid fa-pen-to-square"></i>
                                 </a>
-                                <a asp-controller="Categoria" asp-action="Eliminar" asp-route-id="@item.Id" class="btn btn-danger mx-2">
+                                <a asp-controller="TipoAplicacion" asp-action="Eliminar" asp-route-id="@item.Id" class="btn btn-danger mx-2">
                                     <i class="fa-solid fa-trash"></i>
                                 </a>
                             </div>
@@ -53,10 +51,7 @@
     }
     else
     {
-        <p>No hay registro de categorías</p>
+        <p>No hay registro de tipos de aplicaciones</p>
     }
 </div>
-
-
-
 

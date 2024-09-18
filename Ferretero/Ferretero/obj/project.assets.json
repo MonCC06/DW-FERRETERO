@@ -10962,24 +10962,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Estudiante-02\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\pablo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Estudiante-02\\Documents\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Ferretero.csproj",
+      "projectUniqueName": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Ferretero.csproj",
       "projectName": "Ferretero",
-      "projectPath": "C:\\Users\\Estudiante-02\\Documents\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Ferretero.csproj",
-      "packagesPath": "C:\\Users\\Estudiante-02\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Estudiante-02\\Documents\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\obj\\",
+      "projectPath": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Ferretero.csproj",
+      "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Estudiante-02\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10987,7 +10982,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -11000,6 +10994,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -11040,7 +11039,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

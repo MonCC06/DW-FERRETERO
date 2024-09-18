@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|c:\\users\\pablo\\onedrive\\documentos\\github\\dw-ferretero\\ferretero\\ferretero\\controllers\\tipoaplicacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|solutionrelative:ferretero\\controllers\\tipoaplicacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|c:\\users\\pablo\\onedrive\\documentos\\github\\dw-ferretero\\ferretero\\ferretero\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|solutionrelative:ferretero\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|c:\\users\\pablo\\onedrive\\documentos\\github\\dw-ferretero\\ferretero\\ferretero\\views\\categoria\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|solutionrelative:ferretero\\views\\categoria\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|c:\\users\\pablo\\onedrive\\documentos\\github\\dw-ferretero\\ferretero\\ferretero\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|solutionrelative:ferretero\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|c:\\users\\pablo\\onedrive\\documentos\\github\\dw-ferretero\\ferretero\\ferretero\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|solutionrelative:ferretero\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|c:\\users\\pablo\\onedrive\\documentos\\github\\dw-ferretero\\ferretero\\ferretero\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|solutionrelative:ferretero\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|c:\\users\\pablo\\onedrive\\documentos\\github\\dw-ferretero\\ferretero\\ferretero\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|solutionrelative:ferretero\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|c:\\users\\pablo\\onedrive\\documentos\\github\\dw-ferretero\\ferretero\\ferretero\\views\\tipoaplicacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|solutionrelative:ferretero\\views\\tipoaplicacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|c:\\users\\pablo\\onedrive\\documentos\\github\\dw-ferretero\\ferretero\\ferretero\\views\\categoria\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|solutionrelative:ferretero\\views\\categoria\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|c:\\users\\pablo\\onedrive\\documentos\\github\\dw-ferretero\\ferretero\\ferretero\\views\\categoria\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|solutionrelative:ferretero\\views\\categoria\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|c:\\users\\pablo\\onedrive\\documentos\\github\\dw-ferretero\\ferretero\\ferretero\\models\\tipoaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|solutionrelative:ferretero\\models\\tipoaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|c:\\users\\pablo\\onedrive\\documentos\\github\\dw-ferretero\\ferretero\\ferretero\\migrations\\20240904155053_agregarcateroiabd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|solutionrelative:ferretero\\migrations\\20240904155053_agregarcateroiabd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|c:\\users\\pablo\\onedrive\\documentos\\github\\dw-ferretero\\ferretero\\ferretero\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|solutionrelative:ferretero\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|c:\\users\\pablo\\onedrive\\documentos\\github\\dw-ferretero\\ferretero\\ferretero\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|solutionrelative:ferretero\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|c:\\users\\pablo\\onedrive\\documentos\\github\\dw-ferretero\\ferretero\\ferretero\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|solutionrelative:ferretero\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|c:\\users\\pablo\\onedrive\\documentos\\github\\dw-ferretero\\ferretero\\ferretero\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|solutionrelative:ferretero\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|c:\\users\\pablo\\onedrive\\documentos\\github\\dw-ferretero\\ferretero\\ferretero\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|solutionrelative:ferretero\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|c:\\users\\pablo\\onedrive\\documentos\\github\\dw-ferretero\\ferretero\\ferretero\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|solutionrelative:ferretero\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|c:\\users\\pablo\\onedrive\\documentos\\github\\dw-ferretero\\ferretero\\ferretero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|solutionrelative:ferretero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|c:\\users\\pablo\\onedrive\\documentos\\github\\dw-ferretero\\ferretero\\ferretero\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|solutionrelative:ferretero\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|c:\\users\\pablo\\onedrive\\documentos\\github\\dw-ferretero\\ferretero\\ferretero\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|solutionrelative:ferretero\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|c:\\users\\pablo\\onedrive\\documentos\\github\\dw-ferretero\\ferretero\\ferretero\\ferretero.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3E337FBB-0AA1-4BF0-BCA9-E161F2CA4C61}|Ferretero\\Ferretero.csproj|solutionrelative:ferretero\\ferretero.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Views\\Categoria\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ferretero\\Views\\Categoria\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Views\\Categoria\\Index.cshtml",
+              "RelativeToolTip": "Ferretero\\Views\\Categoria\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T05:35:36.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TipoAplicacionController.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Controllers\\TipoAplicacionController.cs",
+              "RelativeDocumentMoniker": "Ferretero\\Controllers\\TipoAplicacionController.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Controllers\\TipoAplicacionController.cs",
+              "RelativeToolTip": "Ferretero\\Controllers\\TipoAplicacionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:27:39.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Views\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ferretero\\Views\\Producto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Views\\Producto\\Index.cshtml",
+              "RelativeToolTip": "Ferretero\\Views\\Producto\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T05:21:30.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Views\\Categoria\\Crear.cshtml",
+              "RelativeDocumentMoniker": "Ferretero\\Views\\Categoria\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Views\\Categoria\\Crear.cshtml",
+              "RelativeToolTip": "Ferretero\\Views\\Categoria\\Crear.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T05:22:06.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Ferretero\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Ferretero\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:16:47.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Views\\TipoAplicacion\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ferretero\\Views\\TipoAplicacion\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Views\\TipoAplicacion\\Index.cshtml",
+              "RelativeToolTip": "Ferretero\\Views\\TipoAplicacion\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T03:59:21.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Views\\Categoria\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "Ferretero\\Views\\Categoria\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Views\\Categoria\\Eliminar.cshtml",
+              "RelativeToolTip": "Ferretero\\Views\\Categoria\\Eliminar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T01:26:08.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ferretero\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ferretero\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T01:26:08.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240904155053_agregarCateroiaBD.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Migrations\\20240904155053_agregarCateroiaBD.cs",
+              "RelativeDocumentMoniker": "Ferretero\\Migrations\\20240904155053_agregarCateroiaBD.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Migrations\\20240904155053_agregarCateroiaBD.cs",
+              "RelativeToolTip": "Ferretero\\Migrations\\20240904155053_agregarCateroiaBD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T01:26:08.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Views\\Categoria\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Ferretero\\Views\\Categoria\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Views\\Categoria\\Editar.cshtml",
+              "RelativeToolTip": "Ferretero\\Views\\Categoria\\Editar.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T01:26:08.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TipoAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Models\\TipoAplicacion.cs",
+              "RelativeDocumentMoniker": "Ferretero\\Models\\TipoAplicacion.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Models\\TipoAplicacion.cs",
+              "RelativeToolTip": "Ferretero\\Models\\TipoAplicacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T01:26:08.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\appsettings.json",
+              "RelativeDocumentMoniker": "Ferretero\\appsettings.json",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\appsettings.json",
+              "RelativeToolTip": "Ferretero\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-18T02:01:46.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Ferretero\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Ferretero\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-18T01:26:08.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Ferretero\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Ferretero\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T01:26:08.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Ferretero\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Ferretero\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T01:26:08.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Ferretero\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Ferretero\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T01:26:08.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Ferretero\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Ferretero\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T01:26:08.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Program.cs",
+              "RelativeDocumentMoniker": "Ferretero\\Program.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Program.cs",
+              "RelativeToolTip": "Ferretero\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T01:26:08.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Ferretero\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Ferretero\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T01:26:08.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Ferretero\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Ferretero\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T01:26:08.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Ferretero",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Ferretero.csproj",
+              "RelativeDocumentMoniker": "Ferretero\\Ferretero.csproj",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Ferretero.csproj",
+              "RelativeToolTip": "Ferretero\\Ferretero.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T01:26:08.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 58,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "ed259474-5cff-4629-8588-8f217a607a79",
+        "Display": 0,
+        "X": 283,
+        "Y": 57,
+        "Width": 1088,
+        "Height": 716,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Ferretero\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\DW-FERRETERO\\Ferretero\\Ferretero\\Models\\Producto.cs",
+              "RelativeToolTip": "Ferretero\\Models\\Producto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:29:37.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
