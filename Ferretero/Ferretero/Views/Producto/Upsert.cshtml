@@ -1,0 +1,113 @@
+﻿@model Ferretero.Models.ViewModels.ProductoVM
+
+@{
+
+
+    var titulo = "Crear nuevo producto";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form method="post" asp-action="Upsert" enctype="multipart/form-data">
+
+    @if (Model.Producto.Id != 0)
+    {
+        titulo = "Editar Producto";
+        <input asp-for="Producto.Id" hidden>
+        //si es editar tengo que enviar el id del producto que vamos a editar
+
+    }
+
+    <div class="border p-3">
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="row">
+            <h2 class="text-info">@titulo</h2> @*aca llamaremos a nuestra variable titulo de acuerdo a lo que hay que hacer*@
+        </div>
+
+        <div class="row">
+            <div class="col-8">
+                @*  Aca es donde esta todo el formulario de editar productos *@
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label asp-for="Producto.NombreProducto" class="form-label">Nombre del producto</label>
+                            <input asp-for="Producto.NombreProducto" class="form-control" />
+                            <span asp-validation-for="Producto.NombreProducto" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label asp-for="Producto.Precio" class="form-label">Precio</label>
+                            <input asp-for="Producto.Precio" class="form-control" />
+                            <span asp-validation-for="Producto.Precio" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label asp-for="Producto.DescripcionCorta" class="form-label">Descripcion corta</label>
+                            <input asp-for="Producto.DescripcionCorta" class="form-control" />
+                            <span asp-validation-for="Producto.DescripcionCorta" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label asp-for="Producto.DescripcionProducto" class="form-label">Descripcion Larga</label>
+                            <textarea asp-for="Producto.DescripcionProducto" class="form-control summernote"></textarea>
+                            <span asp-validation-for="Producto.DescripcionProducto" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label asp-for="Producto.ImagenUrl" class="form-label">Imagen</label>
+                            <input type="file" name="files" id="imagenId" class="form-control" />
+
+                        </div>
+                    </div>
+
+
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label asp-for="Producto.CategoriaId" class="form-label">Categoria</label>
+                            <select asp-for="Producto.CategoriaId " asp-items="@ViewBag.categoriaDropDown" class="form-select">
+                                <option disabled selected>--Seleccione Categoria</option>
+                            </select>
+
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label asp-for="Producto.TipoAplicacionId" class="form-label">Tipo de Aplicacion</label>
+                            <select asp-for="Producto.TipoAplicacionId " asp-items="@ViewBag.tipoAplicacionListaDropDown" class="form-select">
+                                <option disabled selected>--Seleccione un Tipo</option>
+                            </select>
+
+                        </div>
+                    </div>
+                    <br />
+
+                    <div class="d-grid gap-2 d-md-block">
+
+                        @if (Model.Producto.Id != 0)
+                        {
+                            <button type="submit" class="btn btn-primary">Actualizar</button>
+                        }
+                        else
+                        {
+
+                            <button type="submit" ;" class="btn btn-primary">Crear Nuevo</button>
+                        }
+                        <a asp-controller="Producto" asp-action="Index" class=" btn btn-success">Regresar</a>
+                    </div>
+
+
+                </div> @* aca termina el col 8 *@
+            </div>
+
+        </div>
+
+    </div>
+
+
+</form>
+

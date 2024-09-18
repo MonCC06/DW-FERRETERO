@@ -38,7 +38,7 @@
                         <td width="30%">@item.MostrarOrden</td>
                         <td class="text-center">
                             <div class="btn-group" role="group">
-                                <a asp-controller="Categoria" asp-action="Editar" asp-route-id="@item.Id" class="btn btn-primary mx-2">
+                                <a asp-controller="Categoria" asp-action="Upsert" asp-route-id="@item.Id" class="btn btn-primary mx-2">
                                     <i class="fa-solid fa-pen-to-square"></i>
                                 </a>
                                 <a asp-controller="Categoria" asp-action="Eliminar" asp-route-id="@item.Id" class="btn btn-danger mx-2">
