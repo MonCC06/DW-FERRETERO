@@ -69,7 +69,7 @@ namespace Ferretero.Controllers
             }
             else
             {
-                producto = _db.producto.Find(Id);
+                productoVM.Producto = _db.producto.Find(Id);
                 if (productoVM == null)
                 {
                     return NotFound();
