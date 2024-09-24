@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ferretero")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d353ea290abf1a67fd902c9fb4769ef24ee2e3c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ferretero")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ferretero")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,79 +9,79 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Ferretero
 build_property.RootNamespace = Ferretero
-build_property.ProjectDir = C:\Users\Estudiante-14\Documents\GitHub\DW-FERRETERO\Ferretero\Ferretero\
+build_property.ProjectDir = C:\Users\Estudiante-04\Documents\GitHub\DW-FERRETERO\Ferretero\Ferretero\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Estudiante-14\Documents\GitHub\DW-FERRETERO\Ferretero\Ferretero
+build_property.MSBuildProjectDirectory = C:\Users\Estudiante-04\Documents\GitHub\DW-FERRETERO\Ferretero\Ferretero
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Estudiante-14/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/Categoria/Crear.cshtml]
+[C:/Users/Estudiante-04/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/Categoria/Crear.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXENyZWFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Estudiante-14/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/Categoria/Editar.cshtml]
+[C:/Users/Estudiante-04/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/Categoria/Editar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEVkaXRhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Estudiante-14/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/Categoria/Eliminar.cshtml]
+[C:/Users/Estudiante-04/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/Categoria/Eliminar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEVsaW1pbmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Estudiante-14/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/Categoria/Index.cshtml]
+[C:/Users/Estudiante-04/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/Categoria/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Estudiante-14/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/Home/Index.cshtml]
+[C:/Users/Estudiante-04/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Estudiante-14/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/Home/Privacy.cshtml]
+[C:/Users/Estudiante-04/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Estudiante-14/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/Producto/Index.cshtml]
+[C:/Users/Estudiante-04/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/Producto/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Estudiante-14/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/Producto/Upsert.cshtml]
+[C:/Users/Estudiante-04/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/Producto/Upsert.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cVXBzZXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Estudiante-14/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/Shared/Error.cshtml]
+[C:/Users/Estudiante-04/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Estudiante-14/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Estudiante-04/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Estudiante-14/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/TipoAplicacion/Crear.cshtml]
+[C:/Users/Estudiante-04/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/TipoAplicacion/Crear.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0FwbGljYWNpb25cQ3JlYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Estudiante-14/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/TipoAplicacion/Editar.cshtml]
+[C:/Users/Estudiante-04/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/TipoAplicacion/Editar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0FwbGljYWNpb25cRWRpdGFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Estudiante-14/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/TipoAplicacion/Eliminar.cshtml]
+[C:/Users/Estudiante-04/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/TipoAplicacion/Eliminar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0FwbGljYWNpb25cRWxpbWluYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Estudiante-14/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/TipoAplicacion/Index.cshtml]
+[C:/Users/Estudiante-04/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/TipoAplicacion/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0FwbGljYWNpb25cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Estudiante-14/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/_ViewImports.cshtml]
+[C:/Users/Estudiante-04/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Estudiante-14/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/_ViewStart.cshtml]
+[C:/Users/Estudiante-04/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Estudiante-14/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/Shared/_Layout.cshtml]
+[C:/Users/Estudiante-04/Documents/GitHub/DW-FERRETERO/Ferretero/Ferretero/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-f5y0q10i51

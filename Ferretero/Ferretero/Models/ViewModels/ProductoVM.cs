@@ -6,7 +6,7 @@ namespace Ferretero.Models.ViewModels
     {
         public Producto Producto { get; set; }
 
-        public IEnumerable<SelectListItem> CategoriaLista { get; set; }
-        public IEnumerable<SelectListItem> TipoAplicacionLista { get; set; }
+        public IEnumerable<SelectListItem>? CategoriaLista { get; set; }
+        public IEnumerable<SelectListItem>? TipoAplicacionLista { get; set; }
     }
 }

@@ -26,23 +26,23 @@ namespace Ferretero.Controllers
         public IActionResult Upsert(int? Id)
         {
 
-            IEnumerable<SelectListItem> categoriaDropDown = _db.categoria.Select(c => new SelectListItem
-            {
-                Text = c.NombreCategoria,
-                Value = c.Id.ToString()
-            });
+            //IEnumerable<SelectListItem> categoriaDropDown = _db.categoria.Select(c => new SelectListItem
+            //{
+            //    Text = c.NombreCategoria,
+            //    Value = c.Id.ToString()
+            //});
 
-            ViewBag.categoriaDropDown = categoriaDropDown;
+            //ViewBag.categoriaDropDown = categoriaDropDown;
 
-            IEnumerable<SelectListItem> tipoAplicacionListaDropDown = _db.tipoAplicacion.Select(t => new SelectListItem
-            {
-                Text = t.Nombre,
-                Value = t.Id.ToString()
-            });
+            //IEnumerable<SelectListItem> tipoAplicacionListaDropDown = _db.tipoAplicacion.Select(t => new SelectListItem
+            //{
+            //    Text = t.Nombre,
+            //    Value = t.Id.ToString()
+            //});
 
-            ViewBag.tipoAplicacionListaDropDown = tipoAplicacionListaDropDown;
+            //ViewBag.tipoAplicacionListaDropDown = tipoAplicacionListaDropDown;
 
-            Producto producto = new Producto();
+            //Producto producto = new Producto();
 
             ProductoVM productoVM = new ProductoVM()
             {
@@ -76,6 +76,13 @@ namespace Ferretero.Controllers
                 }
                 return View(productoVM);
             }
-        }        
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Upsert(ProductoVM)
+        {
+
+        }
     }
 }

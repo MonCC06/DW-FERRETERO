@@ -95,7 +95,7 @@
                         else
                         {
 
-                            <button type="submit" ;" class="btn btn-primary">Crear Nuevo</button>
+                            <button type="submit" onclick="javascript:validarImagen();" class="btn btn-primary">Crear Nuevo</button>
                         }
                         <a asp-controller="Producto" asp-action="Index" class=" btn btn-success">Regresar</a>
                     </div>
@@ -111,3 +111,29 @@
 
 </form>
 
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+
+    <script>
+        $(document).ready(function () {
+
+            $('.summernote').summernote({   //El manejo de DOM
+                height: 250
+            });
+
+        });
+
+        function validarImagen() {
+            if (document.getElementById("imagenId").value == "") {
+                swal("Error", "Seleccione una imagen!", "error")
+                return false;
+
+            }
+            return true;
+
+
+        }
+
+    </script>
+}
